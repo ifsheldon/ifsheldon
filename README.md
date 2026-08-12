@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on research of AI for Science, Quantum Computing, HCI and Visualization at NTU. 
+I'm currently working on research of Human Computer Interaction and Human Agent Collaboration for Quantum Computing and Scientific Discovery at NTU. 
 
 I post blogs about Rust, AI and AR on [reify.ing](https://reify.ing).
 
